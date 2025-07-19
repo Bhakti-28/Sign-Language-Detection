@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤟 Sign Language Detection App
 
 This is a Streamlit web app that detects hand gestures from **Indian Sign Language (ISL)** and **American Sign Language (ASL)**. You can upload an image or use your webcam for real-time gesture recognition.
@@ -17,3 +18,6 @@ This is a Streamlit web app that detects hand gestures from **Indian Sign Langua
   - ASL: `InceptionV3_ASL.keras`
 
 
+=======
+# Sign-Language-Detection
+>>>>>>> 587442b5e48073dcc9dfc229a2092ee52e9136c9
