@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+opencv-python
+cvzone
+tensorflow
+pillow
+numpy
