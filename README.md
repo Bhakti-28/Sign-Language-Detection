@@ -12,6 +12,6 @@ This is a Streamlit web app that detects hand gestures from **Indian Sign Langua
   Use your webcam to detect hand signs in real-time using deep learning and computer vision.
 
 - **Model Support**
-  - ISL: `MobileNet_ISL.keras`  
+  - ISL: `InceptionV3_ISL.keras`  
   - ASL: `InceptionV3_ASL.keras`
 
